@@ -23,8 +23,11 @@ next you must set it to *true*.
 </details>
 
 ## Screenshot
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/main/Screenshot/1.png)
-![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/main/Screenshot/2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/refs/heads/main/Screenshot/New1.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/refs/heads/main/Screenshot/new2.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/refs/heads/main/Screenshot/new3.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/refs/heads/main/Screenshot/new4.png)
+![Screenshot_1](https://raw.githubusercontent.com/Toliann/HyperionStationInterior/refs/heads/main/Screenshot/new5.png)
 
 ## Special thanks
 
